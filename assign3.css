@@ -1,0 +1,83 @@
+/*Assign3 css file*/
+
+body
+{
+    margin: auto;
+    max-width: 1000px;
+}
+
+.header
+{
+    vertical-align: top;
+    width: 100%;
+}
+
+.footer
+{
+    border-style: dashed;
+    border-color: green;
+    border-width: 5px;
+    padding-bottom: 75px;
+}
+
+.image
+{
+    width: 200px;
+    height: 200px;
+}
+
+.image-float
+{
+    border-style: solid;
+    border-color: red;
+    width: 200px;
+    height: 200px;
+    text-align: center;
+    float: right;
+    margin: 0px 20px;
+}
+
+.menu
+{
+    width: 150px;
+    background-color: blue;
+    background-size: 150px, 150px;
+    text-align: center;
+    vertical-align: top;
+    color: white;
+}
+
+.table
+{
+    min-height: 50%;
+    max-height: auto;
+}
+
+.bio
+{
+    padding-left: 10px;
+    padding-right: 10px;
+    vertical-align: top;
+    border-style: solid;
+    border-color: black;
+    background-color: none;
+    background-size: 300px, 300px;
+}
+
+.bio-text 
+{
+    text-align: justify;
+    clear: left;
+    min-width: 500px;
+}
+
+.courses
+{
+    width: 150px;
+    background-color: orange;
+    background-size: 150px, 150px;
+    text-align: left;
+    vertical-align: top;
+    color: white;
+    padding: 10px;
+}
